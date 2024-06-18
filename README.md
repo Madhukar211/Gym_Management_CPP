@@ -1,1 +1,1 @@
-# Gym_Mangement_CPP
+# Gym_Management_CPP
